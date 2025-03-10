@@ -14,9 +14,9 @@ O código JavaScript é responsável por:
 
 ## CSS
 O código CSS é responsável por:
-- ** O CSS é utilizado para definir o layout da página com flexbox, alinhando os blocos.
-- ** Estilizar o relógio e os dados, aplicando sombras e bordas arredondadas para um visual moderno.
-- ** Usar um gradiente no fundo da página para criar um fundo colorido.
+-  O CSS é utilizado para definir o layout da página com flexbox, alinhando os blocos.
+-  Estilizar o relógio e os dados, aplicando sombras e bordas arredondadas para um visual moderno.
+-  Usar um gradiente no fundo da página para criar um fundo colorido.
 
 
 ### Como usar
